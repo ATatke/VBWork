@@ -46,4 +46,4 @@ Network Trash Folder
 Temporary Items
 .apdisk
 typings
-node_modules
+#node_modules
